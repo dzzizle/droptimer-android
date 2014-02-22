@@ -10,6 +10,6 @@ Android 4.0 or above (uses Holo theme)
 
 What's Next
 -----------
-Random state scrambles
-Saved averages
-Sharing of scrambles and averages
+- Random state scrambles
+- Saved averages
+- Sharing of scrambles and averages
